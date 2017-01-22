@@ -7,9 +7,13 @@ html, body {
     background-color: black;
 }
 
+/* no longer in use */
+
+/*
 #back {
     position: absolute;
 }
+*/
 
 #sun {
     position: absolute;

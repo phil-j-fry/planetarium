@@ -16,5 +16,5 @@ Currently this repo is for testing purposes only, not production
 
 author: Philip Demmert
 <br>
-contact: philip@wix.com
+contact: philipdemmert@gmail.com
 
